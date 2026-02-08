@@ -22,4 +22,4 @@ target_link_libraries(github-activity
         OpenSSL::SSL
         OpenSSL::Crypto
 )
-target_include_directories(github-activity PRIVATE "/Users/danyloshkurko/Downloads/httplib.h")
+target_include_directories(github-activity PRIVATE "httplib.h destination")
