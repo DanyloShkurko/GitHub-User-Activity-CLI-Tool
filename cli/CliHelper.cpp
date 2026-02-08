@@ -12,7 +12,7 @@
 #define GREEN "\033[32m"
 #define BLUE "\033[34m"
 #define RESET "\033[0m"
-#define API "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"
+#define API "YOUR_API"
 
 
 void CliHelper::help() {
